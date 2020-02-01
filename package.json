@@ -1,0 +1,24 @@
+{
+  "name": "node-project",
+  "version": "1.0.0",
+  "description": "This is my first Node Project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kgkrishnavbi/node-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kgkrishnavbi/node-project/issues"
+  },
+  "homepage": "https://github.com/kgkrishnavbi/node-project#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hjs": "0.0.6",
+    "hogan-middleware": "^0.2.2"
+  }
+}
